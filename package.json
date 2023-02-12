@@ -1,0 +1,25 @@
+{
+  "name": "scheduler",
+  "version": "1.0.0",
+  "description": "Bonus Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavi321/Scheduler.git"
+  },
+  "author": "Bhavi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhavi321/Scheduler/issues"
+  },
+  "homepage": "https://github.com/bhavi321/Scheduler#readme",
+  "dependencies": {
+    "cron": "^2.2.0",
+    "moment": "^2.29.4",
+    "node-cron": "^3.0.2",
+    "nodemon": "^2.0.20"
+  }
+}
